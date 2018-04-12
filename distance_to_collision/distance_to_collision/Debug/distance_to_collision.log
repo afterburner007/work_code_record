@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\dou\documents\visual studio 2013\projects\distance_to_collision\distance_to_collision\main.cpp(7): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\dou\documents\visual studio 2013\projects\distance_to_collision\distance_to_collision\main.cpp(8): warning C4305: “=”: 从“double”到“float”截断
+c:\users\dou\documents\visual studio 2013\projects\distance_to_collision\distance_to_collision\main.cpp(9): warning C4305: “=”: 从“double”到“float”截断
+  distance_to_collision.vcxproj -> C:\Users\dou\Documents\Visual Studio 2013\Projects\distance_to_collision\Debug\distance_to_collision.exe
