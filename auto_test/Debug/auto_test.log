@@ -1,0 +1,47 @@
+﻿  auto_test.cpp
+c:\users\dou\desktop\auto_test\auto_test.cpp(98): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\dou\desktop\auto_test\auto_test.cpp(99): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\dou\desktop\auto_test\auto_test.cpp(100): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\dou\desktop\auto_test\auto_test.cpp(101): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\dou\desktop\auto_test\auto_test.cpp(102): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\dou\desktop\auto_test\auto_test.cpp(103): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\dou\desktop\auto_test\auto_test.cpp(104): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\dou\desktop\auto_test\auto_test.cpp(105): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\dou\desktop\auto_test\auto_test.cpp(113): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\dou\desktop\auto_test\auto_test.cpp(113): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 参见“strtok”的声明
+c:\users\dou\desktop\auto_test\auto_test.cpp(204): warning C4172: 返回局部变量或临时变量的地址
+c:\users\dou\desktop\auto_test\auto_test.cpp(226): warning C4172: 返回局部变量或临时变量的地址
+g:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2132): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2113) : 参见“std::_Copy_impl”的声明
+          c:\users\dou\desktop\auto_test\wykobi.inl(8522): 参见对正在编译的函数 模板 实例化“_OutIt std::copy<InputIterator,OutputIterator>(_InIt,_InIt,_OutIt)”的引用
+          with
+          [
+              _OutIt=wykobi::flt_pnt_2d
+  ,            InputIterator=wykobi::flt_pnt_2d
+  ,            OutputIterator=wykobi::flt_pnt_2d
+  ,            _InIt=wykobi::flt_pnt_2d
+          ]
+          c:\users\dou\desktop\auto_test\wykobi_instantiate.hpp(1397): 参见对正在编译的函数 模板 实例化“void wykobi::remove_consecutive_collinear_points<float,wykobi::flt_pnt_2d,wykobi::flt_pnt_2d>(const wykobi::flt_pnt_2d,const wykobi::flt_pnt_2d,wykobi::flt_pnt_2d)”的引用
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2113) : 参见“std::_Copy_impl”的声明
+  正在生成代码...
+  正在编译...
+  main.cpp
+c:\users\dou\desktop\auto_test\main.cpp(88): warning C4305: “=”: 从“double”到“float”截断
+c:\users\dou\desktop\auto_test\main.cpp(91): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\dou\desktop\auto_test\main.cpp(92): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\dou\desktop\auto_test\main.cpp(93): warning C4305: “参数”: 从“double”到“float”截断
+g:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2132): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2113) : 参见“std::_Copy_impl”的声明
+          c:\users\dou\desktop\auto_test\wykobi.inl(8522): 参见对正在编译的函数 模板 实例化“_OutIt std::copy<InputIterator,OutputIterator>(_InIt,_InIt,_OutIt)”的引用
+          with
+          [
+              _OutIt=wykobi::flt_pnt_2d
+  ,            InputIterator=wykobi::flt_pnt_2d
+  ,            OutputIterator=wykobi::flt_pnt_2d
+  ,            _InIt=wykobi::flt_pnt_2d
+          ]
+          c:\users\dou\desktop\auto_test\wykobi_instantiate.hpp(1397): 参见对正在编译的函数 模板 实例化“void wykobi::remove_consecutive_collinear_points<float,wykobi::flt_pnt_2d,wykobi::flt_pnt_2d>(const wykobi::flt_pnt_2d,const wykobi::flt_pnt_2d,wykobi::flt_pnt_2d)”的引用
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2113) : 参见“std::_Copy_impl”的声明
+  正在生成代码...
+  auto_test.vcxproj -> C:\Users\dou\Desktop\auto_test\Debug\auto_test.exe
